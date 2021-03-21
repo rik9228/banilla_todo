@@ -6,4 +6,4 @@
 
 ※CSSは結構割割いています。
 
-デモ：https://rik9228.github.io/javascript_todo/
+デモ：https://rik9228.github.io/banilla_todo/
